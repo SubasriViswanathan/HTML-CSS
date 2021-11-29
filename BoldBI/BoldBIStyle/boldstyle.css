@@ -1,0 +1,124 @@
+*
+{
+    padding:5px;
+    
+}
+body
+{
+    font-family: 'Caros',sans-serif !important;
+    background: #fff;
+    margin: 0;
+    background-color: #d9eaf7;
+}
+#boldbi_chat_Icon
+{
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#contact
+{
+    float: left;
+    height: 100%;
+    width:40%;
+    background-color: rgb( hsl(197, 74%, 79%))
+}
+#sendmessage
+{
+ 
+    float:left;
+   width: 55%;
+   height: 100%;
+   padding:2px;
+ }
+.balance-enquiry
+{
+    width: 55px;
+}
+.imglocation
+{
+   width:280px;
+}
+#imglocation5
+{
+    clear:left;
+}
+#socialmedia
+{
+    padding-left: 60px;
+    margin-left: 270px;
+}
+#socialmedia p
+{
+  color:darkblue;
+  font-size: 25px;
+}
+.footsection
+{
+
+width: 40%;
+height:90%;
+float: left;
+border: 12px;
+padding: 5px;
+}
+#tablefoot
+{
+ 
+  width:58%;
+  height: 90%;
+  float:left;
+}
+footer a{
+  text-align: center;
+  text-decoration-line: none;
+}
+#sendmessage form
+{
+  background-color:whitesmoke;
+  padding-left: 40px;
+}
+form input[type=text],textarea
+{
+
+  width:80%;
+  height:6%;
+}
+input[type=number]
+{
+  width: 80%;
+  height:6%;
+}
+input[type=email]
+{
+  width:80%;
+  height:6%;
+}
+form input[type=submit]
+{
+  width:80%;
+  height:6%;
+  background-color: orangered;
+}
+#myaccount
+{
+  float:right;
+}
+#download
+{
+  float:right;
+}
+#formhead
+{
+  text-align: center;
+}
+#chat
+{
+  position: fixed;
+  right: 0;
+  bottom:0;
+}
+#head a
+{
+  padding-left: 20px;
+}
